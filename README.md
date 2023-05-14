@@ -1,16 +1,36 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**adn4nn/adn4nn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm [adn4nn], a web developer who loves to build beautiful, responsive, and user-friendly websites. 
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- HTML/CSS
+- JavaScript
+- React
+- Node.js
+- Express.js
+- MongoDB
+- Git
+
+## Projects
+
+Here are some of the projects that I've worked on:
+
+- [headspin](link): Short description of project
+- [projecct 2](link): Short description of project
+- [Project 3](link): Short description of project
+
+## Experience
+
+- [Company 1](link) - Position, Date range
+- [Company 2](link) - Position, Date range
+
+## Education
+
+-[calicut university](link) - Degree, computer science, Graduation year
+
+## Contact me
+
+- Email: opglace@gmail.com
+- LinkedIn: [Your LinkedIn profile](link)
+- Twitter: [@YourTwitterHandle](link)
